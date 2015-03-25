@@ -11,7 +11,9 @@
     <div>
         Something new was added to my Page! 
         MORE STUFF!!
+
         awdaw
+        <br /><asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
         <asp:Button ID="Button1" runat="server" Text="Do stuff" OnClick="Button1_Click" />
     </div>
     </form>
