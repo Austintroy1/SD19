@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        CLEAN SLATE!!
+        CLEAN SLATE
+        hi
         <br />
         <asp:FileUpload ID="FileUpload1" runat="server" />
     </div>
