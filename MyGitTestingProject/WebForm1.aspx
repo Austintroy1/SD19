@@ -18,6 +18,8 @@
         <br />hi
         <asp:Image ID="Image1" Width="700px" Height="400px" runat="server" ImageUrl="http://www.funnypictures.org/wp-content/uploads/2015/03/funny-baby-clon-toy.jpg"/>
         nice picture!!!
+
+        NOOOOOOOOOOOOOOOOOOOOOOOOO
     </div>
     </form>
 </body>
