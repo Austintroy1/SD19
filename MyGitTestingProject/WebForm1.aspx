@@ -15,6 +15,8 @@
         awdaw
         <br /><asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
         <asp:Button ID="Button1" runat="server" Text="Do stuff" OnClick="Button1_Click" />
+        <br />
+        <asp:Image ID="Image1" Width="700px" Height="400px" runat="server" ImageUrl="http://www.funnypictures.org/wp-content/uploads/2015/03/funny-baby-clon-toy.jpg"/>
     </div>
     </form>
 </body>
