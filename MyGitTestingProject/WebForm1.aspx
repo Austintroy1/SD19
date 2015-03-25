@@ -9,17 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        Something new was added to my Page! 
-        MORE STUFF!!
-
-        awdaw
-        <br /><asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
-        <asp:Button ID="Button1" runat="server" Text="Do stuff" OnClick="Button1_Click" />
-        <br />hi
-        <asp:Image ID="Image1" Width="700px" Height="400px" runat="server" ImageUrl="http://www.funnypictures.org/wp-content/uploads/2015/03/funny-baby-clon-toy.jpg"/>
-        nice picture!!!
-        <br />
-        <asp:Button ID="Button2" runat="server" Text="Click" />
+        CLEAN SLATE!!
     </div>
     </form>
 </body>
