@@ -14,6 +14,7 @@
         <br />
         <asp:FileUpload ID="FileUpload1" runat="server" />
         more and more commentS!
+        <asp:RadioButton ID="RadioButton1" runat="server" />
     </div>
     </form>
 </body>
